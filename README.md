@@ -1,6 +1,8 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Faniyan Oluwatoyin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/theedon/" target="_blank">Faniyan Oluwatoyin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theedon&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/theedon)
+<h2  align="center">My Github Activity</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theedon&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/theedon)
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theedon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 
