@@ -2,7 +2,7 @@
 
 <h2  align="center">My Github Activity</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theedon&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/theedon)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theedon&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D)](https://github.com/theedon)
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theedon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 
