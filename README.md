@@ -4,10 +4,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theedon&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D)](https://github.com/theedon)
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theedon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theedon&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 
 
-![Theedon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theedon&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark)
+![Theedon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theedon&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dracula)
 
 
 
